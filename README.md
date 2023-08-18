@@ -25,3 +25,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Contato
+
+<div>
+  <a href="[link para su linkedin]" target="_blank"><img src="https://www.linkedin.com/in/sofia-brussa-osella-09a70442/" target="_blank"></a>   
+</div>
