@@ -1,10 +1,18 @@
-### Hi there 👋
+### Hi, i'm Sofi👋
+
+``` js
+const Sofiabrussa = {
+pronouns: "she" | "her",
+code: [Javascript, HTML, CSS, Python],
+tools: [React, Node],
+challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
 <!--
 **Sofiabrussa/Sofiabrussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
