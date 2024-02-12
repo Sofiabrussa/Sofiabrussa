@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Test automation
-- 🌱 I’m currently learning Cypress
-- 👯 I’m looking to collaborate on test, analysis
+- 🌱 I’m currently learning REACT
 - 💬 Let's talk about testing, selenium, python, sql.
 
 
