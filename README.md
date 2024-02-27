@@ -4,13 +4,13 @@
 
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on Test automation
-- 🌱 I’m currently learning REACT
-- 💬 Let's talk about testing, selenium, python, sql.
+- 🔭 I’m currently working on QA Analyst Tester
+- 🌱 I’m currently learning REACT.JS
+- 💬 Let's talk about javascript, python, sql.
 
 
 
-### Contato
+### Contacto
 
 <div>
    <a href="https://www.linkedin.com/in/sofia-brussa-osella-09a70442/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
